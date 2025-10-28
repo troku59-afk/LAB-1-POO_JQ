@@ -51,10 +51,10 @@ public class Main {
                         registrarProductoAlimenticio(scanner);
                         break;
                     case 3:
-                        System.out.println("┌─────────────────────────────────────────┐");
-                        System.out.println("│  Gracias por usar el sistema.          │");
-                        System.out.println("│  ¡Hasta pronto!                         │");
-                        System.out.println("└─────────────────────────────────────────┘");
+            
+                       
+                        
+            
                         continuar = false;
                         break;
                     default:
