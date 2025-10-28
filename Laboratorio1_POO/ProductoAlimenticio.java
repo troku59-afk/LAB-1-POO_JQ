@@ -10,6 +10,7 @@ public class ProductoAlimenticio extends Producto {
     private String fechaCaducidad;
     
     /**
+     * 
      * Constructor parametrizado que inicializa un producto alimenticio.
      * Invoca al constructor de la clase padre para los atributos comunes.
      * 
